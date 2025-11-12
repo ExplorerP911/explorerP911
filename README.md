@@ -1,4 +1,6 @@
 ## Hi there 👋
+my name is pratheek
+my first project is to app for bakery.
 
 <!--
 **ExplorerP911/explorerP911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
